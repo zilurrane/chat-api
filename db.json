@@ -1,0 +1,15 @@
+{
+  "conversations":
+  [
+    {
+      "id": 1,
+      "title": "Sinchan",
+      "profilePicture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Leave & Attendance",
+      "profilePicture": "https://img.freepik.com/free-vector/build-your-program-appointment-booking_23-2148552954.jpg"
+    }
+  ]
+}
