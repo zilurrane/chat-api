@@ -25,6 +25,11 @@
       "id": 5,
       "title": "Ninja",
       "profilePicture": "https://i.imgur.com/9nrDznA.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Doraemon",
+      "profilePicture": "https://i.imgur.com/sOAydjn.jpeg"
     }
   ]
 }
