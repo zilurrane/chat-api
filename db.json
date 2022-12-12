@@ -15,6 +15,16 @@
       "id": 3,
       "title": "IT Support",
       "profilePicture": "https://i.imgur.com/zPWRhXl.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Nobita",
+      "profilePicture": "https://i.imgur.com/43SraKG.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Ninja Hathodi",
+      "profilePicture": "https://i.imgur.com/9nrDznA.jpeg"
     }
   ]
 }
